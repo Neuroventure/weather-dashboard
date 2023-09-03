@@ -1,0 +1,29 @@
+:root {
+    font-size: 30px;
+}
+
+.cst-span {
+    font-size: 50%;
+}
+
+.cityBtn {
+    background-color: #778899;
+    font-size: 50%;
+    padding: 5px;
+    width: 90%;
+    height: 20%;
+    border-radius: 5px;
+    color: white;
+}
+
+.cityBtn:hover{
+    background-color: #617385;
+}
+
+ul {
+    list-style: none;
+}
+
+.cst-card-body {
+    font-size: 50%;
+}
